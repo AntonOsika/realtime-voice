@@ -1,0 +1,11 @@
+[paths]
+base = "."
+src = ""
+dist = "dist"
+
+[run]
+install = "npm install"
+build = "npm run build"
+test = ""
+lint = ""
+format = ""
